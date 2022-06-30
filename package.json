@@ -1,0 +1,19 @@
+{
+  "name": "practica2-coder",
+  "version": "1.0.0",
+  "description": "Agregar arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laltamie/practica2-coder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laltamie/practica2-coder/issues"
+  },
+  "homepage": "https://github.com/Laltamie/practica2-coder#readme"
+}
